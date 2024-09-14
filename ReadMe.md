@@ -15,6 +15,7 @@
     * `helper_functions/`:
         * `get_mouse.py`: Captures mouse events.
         * `get_keyboard.py`: Focuses on key releases and custom stopping mechanisms.
+        * `get_screen.py`: Focuses on mouse clicks to create a screenshot with red highlighted region signifying where mouse clicked
     * `save_data/`: Responsible for writing captured data to both JSON and text files.
 * **Clear Documentation:** Comments throughout the codebase enhance use and contribution by other developers.
 
