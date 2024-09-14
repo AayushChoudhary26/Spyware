@@ -1,0 +1,897 @@
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939596.4032657
+by: mouse
+action: move
+postion: (847, 1011)
+timestamp: 1724939592.855311
+by: mouse
+action: move
+postion: (847, 1008)
+timestamp: 1724939592.8664496
+by: mouse
+action: move
+postion: (847, 1003)
+timestamp: 1724939592.8741965
+by: mouse
+action: move
+postion: (847, 995)
+timestamp: 1724939592.8873115
+by: mouse
+action: move
+postion: (843, 985)
+timestamp: 1724939592.8977149
+by: mouse
+action: move
+postion: (841, 971)
+timestamp: 1724939592.9029431
+by: mouse
+action: move
+postion: (839, 964)
+timestamp: 1724939592.913221
+by: mouse
+action: move
+postion: (837, 956)
+timestamp: 1724939592.918412
+by: mouse
+action: move
+postion: (836, 955)
+timestamp: 1724939592.9286742
+by: mouse
+action: move
+postion: (836, 951)
+timestamp: 1724939592.9339015
+by: mouse
+action: move
+postion: (835, 950)
+timestamp: 1724939592.9339643
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.0800328
+by: mouse
+action: move
+postion: (833, 950)
+timestamp: 1724939597.080011
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.1278696
+by: mouse
+action: move
+postion: (832, 950)
+timestamp: 1724939597.1278505
+by: mouse
+action: move
+postion: (832, 950)
+timestamp: 1724939597.1280413
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.143908
+by: mouse
+action: move
+postion: (831, 950)
+timestamp: 1724939597.1438932
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.159945
+by: mouse
+action: move
+postion: (829, 950)
+timestamp: 1724939597.159926
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.1758058
+by: mouse
+action: move
+postion: (826, 950)
+timestamp: 1724939597.1757863
+by: mouse
+action: move
+postion: (821, 950)
+timestamp: 1724939597.1759415
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.1918747
+by: mouse
+action: move
+postion: (818, 952)
+timestamp: 1724939597.1918592
+by: mouse
+action: move
+postion: (816, 952)
+timestamp: 1724939597.1920094
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.2081249
+by: mouse
+action: move
+postion: (813, 952)
+timestamp: 1724939597.208104
+by: mouse
+action: move
+postion: (811, 953)
+timestamp: 1724939597.2082675
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.2238147
+by: mouse
+action: move
+postion: (807, 953)
+timestamp: 1724939597.223795
+by: mouse
+action: move
+postion: (805, 954)
+timestamp: 1724939597.2238612
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.239993
+by: mouse
+action: move
+postion: (802, 954)
+timestamp: 1724939597.2399752
+by: mouse
+action: move
+postion: (801, 954)
+timestamp: 1724939597.2400386
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.3038793
+by: mouse
+action: move
+postion: (799, 955)
+timestamp: 1724939597.3038552
+by: mouse
+action: move
+postion: (797, 955)
+timestamp: 1724939597.304023
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.319767
+by: mouse
+action: move
+postion: (796, 955)
+timestamp: 1724939597.3197434
+by: mouse
+action: move
+postion: (793, 955)
+timestamp: 1724939597.3198094
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.336028
+by: mouse
+action: move
+postion: (791, 955)
+timestamp: 1724939597.3360043
+by: mouse
+action: move
+postion: (788, 955)
+timestamp: 1724939597.336174
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.3521082
+by: mouse
+action: move
+postion: (786, 955)
+timestamp: 1724939597.3520875
+by: mouse
+action: move
+postion: (784, 955)
+timestamp: 1724939597.3521557
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.3680596
+by: mouse
+action: move
+postion: (781, 955)
+timestamp: 1724939597.3681548
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.378679
+by: mouse
+action: move
+postion: (780, 955)
+timestamp: 1724939597.378659
+by: mouse
+action: move
+postion: (778, 955)
+timestamp: 1724939597.3787227
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.3920584
+by: mouse
+action: move
+postion: (776, 955)
+timestamp: 1724939597.3920426
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.4081082
+by: mouse
+action: move
+postion: (775, 955)
+timestamp: 1724939597.4080923
+by: mouse
+action: move
+postion: (773, 955)
+timestamp: 1724939597.4082444
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.4241414
+by: mouse
+action: move
+postion: (772, 955)
+timestamp: 1724939597.4241185
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.4399178
+by: mouse
+action: move
+postion: (771, 955)
+timestamp: 1724939597.439901
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939597.9763203
+by: mouse
+action: move
+postion: (772, 955)
+timestamp: 1724939597.9763
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.000176
+by: mouse
+action: move
+postion: (774, 955)
+timestamp: 1724939598.000152
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.0055778
+by: mouse
+action: move
+postion: (776, 955)
+timestamp: 1724939598.0055594
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.0161455
+by: mouse
+action: move
+postion: (778, 955)
+timestamp: 1724939598.016128
+by: mouse
+action: move
+postion: (779, 955)
+timestamp: 1724939598.0162876
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.0321846
+by: mouse
+action: move
+postion: (781, 955)
+timestamp: 1724939598.032162
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.0375369
+by: mouse
+action: move
+postion: (782, 955)
+timestamp: 1724939598.037522
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.0480402
+by: mouse
+action: move
+postion: (784, 955)
+timestamp: 1724939598.048117
+by: mouse
+action: move
+postion: (786, 955)
+timestamp: 1724939598.0481722
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.0640562
+by: mouse
+action: move
+postion: (788, 955)
+timestamp: 1724939598.0640337
+by: mouse
+action: move
+postion: (791, 955)
+timestamp: 1724939598.0641055
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.0802267
+by: mouse
+action: move
+postion: (792, 955)
+timestamp: 1724939598.0802004
+by: mouse
+action: move
+postion: (796, 955)
+timestamp: 1724939598.0802705
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.0963337
+by: mouse
+action: move
+postion: (798, 955)
+timestamp: 1724939598.0963132
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.1017027
+by: mouse
+action: move
+postion: (799, 955)
+timestamp: 1724939598.1016853
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.1122413
+by: mouse
+action: move
+postion: (800, 955)
+timestamp: 1724939598.1122262
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.1225843
+by: mouse
+action: move
+postion: (804, 954)
+timestamp: 1724939598.1225646
+by: mouse
+action: move
+postion: (806, 954)
+timestamp: 1724939598.1226294
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.131069
+by: mouse
+action: move
+postion: (809, 954)
+timestamp: 1724939598.1310532
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.144095
+by: mouse
+action: move
+postion: (815, 954)
+timestamp: 1724939598.1440787
+by: mouse
+action: move
+postion: (821, 954)
+timestamp: 1724939598.1442413
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.1601183
+by: mouse
+action: move
+postion: (827, 954)
+timestamp: 1724939598.1601012
+by: mouse
+action: move
+postion: (833, 954)
+timestamp: 1724939598.1601725
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.1760814
+by: mouse
+action: move
+postion: (840, 954)
+timestamp: 1724939598.1760614
+by: mouse
+action: move
+postion: (846, 954)
+timestamp: 1724939598.176128
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.1921494
+by: mouse
+action: move
+postion: (851, 952)
+timestamp: 1724939598.1921296
+by: mouse
+action: move
+postion: (855, 952)
+timestamp: 1724939598.1921964
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.2079885
+by: mouse
+action: move
+postion: (861, 952)
+timestamp: 1724939598.208054
+by: mouse
+action: move
+postion: (864, 952)
+timestamp: 1724939598.2081187
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.2239928
+by: mouse
+action: move
+postion: (867, 952)
+timestamp: 1724939598.223974
+by: mouse
+action: move
+postion: (872, 950)
+timestamp: 1724939598.224038
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.240178
+by: mouse
+action: move
+postion: (873, 950)
+timestamp: 1724939598.2401597
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.2559106
+by: mouse
+action: move
+postion: (877, 950)
+timestamp: 1724939598.2558918
+by: mouse
+action: move
+postion: (878, 950)
+timestamp: 1724939598.256048
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.2721593
+by: mouse
+action: move
+postion: (879, 950)
+timestamp: 1724939598.272144
+by: mouse
+action: move
+postion: (881, 950)
+timestamp: 1724939598.2722087
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.2879944
+by: mouse
+action: move
+postion: (883, 950)
+timestamp: 1724939598.2879727
+by: mouse
+action: move
+postion: (884, 950)
+timestamp: 1724939598.2880433
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.304024
+by: mouse
+action: move
+postion: (886, 950)
+timestamp: 1724939598.3040051
+by: mouse
+action: move
+postion: (888, 950)
+timestamp: 1724939598.3040686
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.3202665
+by: mouse
+action: move
+postion: (892, 950)
+timestamp: 1724939598.3202474
+by: mouse
+action: move
+postion: (896, 953)
+timestamp: 1724939598.3203106
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.3360286
+by: mouse
+action: move
+postion: (898, 953)
+timestamp: 1724939598.3360043
+by: mouse
+action: move
+postion: (902, 953)
+timestamp: 1724939598.3360755
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.352174
+by: mouse
+action: move
+postion: (903, 953)
+timestamp: 1724939598.3522406
+by: mouse
+action: move
+postion: (906, 953)
+timestamp: 1724939598.3523064
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.3680012
+by: mouse
+action: move
+postion: (908, 953)
+timestamp: 1724939598.3679824
+by: mouse
+action: move
+postion: (911, 953)
+timestamp: 1724939598.3680477
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.3840418
+by: mouse
+action: move
+postion: (913, 953)
+timestamp: 1724939598.3840215
+by: mouse
+action: move
+postion: (916, 953)
+timestamp: 1724939598.384089
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.4000082
+by: mouse
+action: move
+postion: (918, 953)
+timestamp: 1724939598.400073
+by: mouse
+action: move
+postion: (921, 953)
+timestamp: 1724939598.4001372
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.4160743
+by: mouse
+action: move
+postion: (923, 953)
+timestamp: 1724939598.4160516
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.4320724
+by: mouse
+action: move
+postion: (927, 953)
+timestamp: 1724939598.4320512
+by: mouse
+action: move
+postion: (928, 953)
+timestamp: 1724939598.4321215
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.44813
+by: mouse
+action: move
+postion: (929, 953)
+timestamp: 1724939598.448112
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.8562322
+by: mouse
+action: move
+postion: (930, 952)
+timestamp: 1724939598.8562114
+by: mouse
+action: move
+postion: (930, 950)
+timestamp: 1724939598.8562858
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.8722918
+by: mouse
+action: move
+postion: (930, 947)
+timestamp: 1724939598.872272
+by: mouse
+action: move
+postion: (930, 943)
+timestamp: 1724939598.8723412
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.8882663
+by: mouse
+action: move
+postion: (930, 935)
+timestamp: 1724939598.8882475
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.8935518
+by: mouse
+action: move
+postion: (929, 927)
+timestamp: 1724939598.893537
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.9043572
+by: mouse
+action: move
+postion: (926, 915)
+timestamp: 1724939598.9043362
+by: mouse
+action: move
+postion: (924, 901)
+timestamp: 1724939598.904521
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.9204247
+by: mouse
+action: move
+postion: (922, 886)
+timestamp: 1724939598.920403
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.9309232
+by: mouse
+action: move
+postion: (921, 876)
+timestamp: 1724939598.930889
+by: mouse
+action: move
+postion: (921, 864)
+timestamp: 1724939598.9309707
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.9444396
+by: mouse
+action: move
+postion: (921, 855)
+timestamp: 1724939598.944421
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.9549177
+by: mouse
+action: move
+postion: (922, 846)
+timestamp: 1724939598.9550188
+by: mouse
+action: move
+postion: (921, 832)
+timestamp: 1724939598.955095
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.9683416
+by: mouse
+action: move
+postion: (921, 813)
+timestamp: 1724939598.968321
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.9789836
+by: mouse
+action: move
+postion: (921, 791)
+timestamp: 1724939598.9789689
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.9842904
+by: mouse
+action: move
+postion: (921, 772)
+timestamp: 1724939598.9842691
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939598.9948113
+by: mouse
+action: move
+postion: (921, 752)
+timestamp: 1724939598.9947956
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.0001202
+by: mouse
+action: move
+postion: (921, 735)
+timestamp: 1724939599.0001018
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.016389
+by: mouse
+action: move
+postion: (921, 700)
+timestamp: 1724939599.016371
+by: mouse
+action: move
+postion: (921, 688)
+timestamp: 1724939599.0164402
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.0323572
+by: mouse
+action: move
+postion: (921, 676)
+timestamp: 1724939599.0323367
+by: mouse
+action: move
+postion: (921, 664)
+timestamp: 1724939599.032412
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.0484142
+by: mouse
+action: move
+postion: (921, 652)
+timestamp: 1724939599.048364
+by: mouse
+action: move
+postion: (921, 644)
+timestamp: 1724939599.0484862
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.0643184
+by: mouse
+action: move
+postion: (917, 638)
+timestamp: 1724939599.0642898
+by: mouse
+action: move
+postion: (917, 631)
+timestamp: 1724939599.0643845
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.0752206
+by: mouse
+action: move
+postion: (917, 629)
+timestamp: 1724939599.075166
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.083436
+by: mouse
+action: move
+postion: (917, 626)
+timestamp: 1724939599.0834086
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.0963223
+by: mouse
+action: move
+postion: (917, 622)
+timestamp: 1724939599.0962987
+by: mouse
+action: move
+postion: (917, 621)
+timestamp: 1724939599.096363
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.1122713
+by: mouse
+action: move
+postion: (917, 620)
+timestamp: 1724939599.1122525
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.3044138
+by: mouse
+action: move
+postion: (917, 621)
+timestamp: 1724939599.3043916
+by: mouse
+action: move
+postion: (917, 626)
+timestamp: 1724939599.3044922
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.320356
+by: mouse
+action: move
+postion: (917, 635)
+timestamp: 1724939599.3203337
+by: mouse
+action: move
+postion: (917, 648)
+timestamp: 1724939599.3204737
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.3362327
+by: mouse
+action: move
+postion: (917, 659)
+timestamp: 1724939599.3362122
+by: mouse
+action: move
+postion: (917, 674)
+timestamp: 1724939599.336283
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.3525343
+by: mouse
+action: move
+postion: (917, 690)
+timestamp: 1724939599.352462
+by: mouse
+action: move
+postion: (917, 709)
+timestamp: 1724939599.35261
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.3685138
+by: mouse
+action: move
+postion: (917, 723)
+timestamp: 1724939599.3684921
+by: mouse
+action: move
+postion: (917, 741)
+timestamp: 1724939599.3686361
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.3843417
+by: mouse
+action: move
+postion: (917, 758)
+timestamp: 1724939599.3843195
+by: mouse
+action: move
+postion: (917, 777)
+timestamp: 1724939599.3843937
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.4003208
+by: mouse
+action: move
+postion: (917, 796)
+timestamp: 1724939599.400289
+by: mouse
+action: move
+postion: (917, 815)
+timestamp: 1724939599.4003837
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.416589
+by: mouse
+action: move
+postion: (917, 832)
+timestamp: 1724939599.416526
+by: mouse
+action: move
+postion: (920, 849)
+timestamp: 1724939599.4166906
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.4321368
+by: mouse
+action: move
+postion: (918, 851)
+timestamp: 1724939599.4322712
+by: mouse
+action: move
+postion: (911, 847)
+timestamp: 1724939599.4323518
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.448265
+by: mouse
+action: move
+postion: (911, 863)
+timestamp: 1724939599.4482286
+by: mouse
+action: move
+postion: (911, 873)
+timestamp: 1724939599.4483452
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.464266
+by: mouse
+action: move
+postion: (911, 882)
+timestamp: 1724939599.4642456
+by: mouse
+action: move
+postion: (911, 887)
+timestamp: 1724939599.4643154
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.4804146
+by: mouse
+action: move
+postion: (911, 890)
+timestamp: 1724939599.4803932
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.4962695
+by: mouse
+action: move
+postion: (911, 894)
+timestamp: 1724939599.4963655
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939599.8965595
+by: mouse
+action: move
+postion: (911, 895)
+timestamp: 1724939599.8965373
+<----------
+
+---------->Timestamp: Start_Time 1724939591.4032657 - End_Time 1724939600.1977532
+by: keyboard
+action: pressed
+key: Key.esc
+timestamp: 1724939600.1977334
+<----------
+
