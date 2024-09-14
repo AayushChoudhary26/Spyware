@@ -1,4 +1,5 @@
 import time
+from helper_functions.get_screen import take_screenshot
 
 def on_click(x: int, y: int, button: int, pressed: bool, actions: dict) -> None:
     """Log Mouse Clicks
@@ -20,6 +21,7 @@ def on_click(x: int, y: int, button: int, pressed: bool, actions: dict) -> None:
     }
     
     actions['actions'].append(action)
+    take_screenshot(x - 100, y - 100, x + 100, y + 100)
 
 def on_scroll(x: int, y: int, dx: int, dy: int, actions: dict) -> None:
     """Log Mouse Scrolling
